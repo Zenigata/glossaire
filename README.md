@@ -1,4 +1,0 @@
-glossaire
-=========
-
-Un glossaire personnel.
